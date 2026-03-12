@@ -54,6 +54,6 @@ class NafDev:
 
 <div align="center">
 
-  ![Naf's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenovicenafi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  ![Naf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thenovicenafi&theme=tokyonight&hide_border=true&color=2E9EF7&area=true)
 
 </div>
