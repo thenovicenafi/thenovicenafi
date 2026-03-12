@@ -54,6 +54,6 @@ class NafDev:
 
 <div align="center">
 
-![My statss](https://github-readme-contribution-graph.vercel.app/graph?username=thenovicenafi&theme=tokyonight&hide_border=true&custom_fill=ff7ac1)
+  ![My Stats ⭐🍅](https://github-readme-stats.vercel.app/api?username=thenovicenafi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
