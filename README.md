@@ -1,15 +1,15 @@
-# Hi there, I'm Naf! 👋
+## Hi there, I'm Naf! ⭐🍅
 
-## 🚀 About Me
+### About Me
 
 Hey! I'm a vocational high school student deeply passionate about **AI Development** and **Machine Learning**. This GitHub is my **digital laboratory** a place where I experiment, learn from mistakes, and grow as a developer.
 
 - Learning: AI/ML, Web Development, Bioinformatics
 - Status: **Novice → Intermediate** (in progress...)
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-### Languages & Frameworks
+#### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -18,7 +18,7 @@ Hey! I'm a vocational high school student deeply passionate about **AI Developme
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🌱 Learning Journey
+### Learning Journey
 
 ```python
 class NafDev:
@@ -32,27 +32,25 @@ class NafDev:
     
     def daily_routine(self):
         return [
-            "📚 Learn something new",
-            "💻 Code & experiment",
-            "🐛 Debug & improve",
-            "📝 Document progress",
-            "🔄 Repeat"
+            "Learn something new",
+            "Code & experiment",
+            "Debug & improve",
+            "Document progress",
+            "Repeat XD"
         ]
     
     def philosophy(self):
         return "Ex Terra Natus, Ad Astra Voco"
 ```
 
-## 📫 Connect With Me
+### Connect With Me
 
 - 💬 Discord: **nafii_3**
-- - 🏆 Kaggle: [My Kaggle Profile](https://www.kaggle.com/nabilanaf)
+- 🏆 Kaggle: [My Kaggle Profile](https://www.kaggle.com/nabilanaf)
 - 🧑‍💻 GitHub Discussions / Issues — feel free to tag me!
 - 🌐 Portfolio: *Coming soon...*
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
